@@ -1,0 +1,2 @@
+class EmptyStackError(Exception):
+    pass
